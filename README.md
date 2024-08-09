@@ -1,4 +1,3 @@
-# Prasad Mangina  
 **Data Scientist | NLP Specialist**  
 *Hyderabad, India*  
 [Email Me](mailto:mcvspn@gmail.com)
