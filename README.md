@@ -12,7 +12,7 @@ I am an **Experienced Data Scientist** with a focus on **Natural Language Proces
 ## 💼 Professional Experience
 
 **TATA Consultancy Services**  
-*Data Scientist – NLP | 3 Years Experience*  
+*Data Scientist – NLP | 3+ Years Experience*  
 
 - Developed and deployed NLP models to extract and analyze key insights from large volumes of unstructured data.
 - Leveraged Azure ML Studio for scalable and efficient model deployment.
