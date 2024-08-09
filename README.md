@@ -1,6 +1,6 @@
 **Data Scientist | NLP Specialist**  
 *Hyderabad, India*  
-[Email Me](mailto:mcvspn@gmail.com)
+[Email me](mailto:mcvspn@gmail.com)
 
 ---
 
